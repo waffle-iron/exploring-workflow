@@ -6,3 +6,7 @@ This is my read me file. I am making a change to it in a separate branch so I do
 Once I feel my work here is done. I can make a pull request. 
 
 WEEE ADDING ADDITIONAL NOTES.
+
+Adding a little poop.
+
+Just a little...
