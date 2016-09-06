@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/gabyhernan/exploring-workflow.png?label=ready&title=Ready)](https://waffle.io/gabyhernan/exploring-workflow)
 # exploring-workflow
 Playing around and exploring workflow 
 
